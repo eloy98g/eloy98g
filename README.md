@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello! 👋 
+# I'm Eloy Gómez
 
-<!--
-**eloy98g/eloy98g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a web and mobile software engineer passionate about design and development. Here you'll find some of my projects and contributions.
 
-Here are some ideas to get you started:
+* 💻 Working as a Fronted Developer since 2021
+* 👨‍🎓 Computer engineer
+* 🏣 Corrently working fulltime at [![Gopick](https://gopick-app.com/)
+* 📐 Passionate about UX/UI design
+* 💡 Always looking for new ideas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eloy98ge&show_icons=true&count_private=true&theme=dark)](https://github.com/yourusername)
+
+## Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eloy98g&layout=compact&theme=dark)](https://github.com/yourusername)
+
+
+
+## Contact
+
+Feel free to reach out!
+
+[![LinkedIn](https://www.linkedin.com/in/eloy-gomez-garcia-464125201/)
+Personal Web in maintenance
+
