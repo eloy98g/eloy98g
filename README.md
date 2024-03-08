@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a web and mobile software engineer passionate 
 
 Feel free to reach out!
 
-[![LinkedIn](https://www.linkedin.com/in/eloy-gomez-garcia-464125201/)
+[LinkedIn](https://www.linkedin.com/in/eloy-gomez-garcia-464125201/)
 
-[![Personal Web in maintenance]()
+[Personal Web in maintenance]()
 
