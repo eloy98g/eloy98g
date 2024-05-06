@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a web and mobile software engineer passionate 
 
 * 💻 Working as a Fronted Developer since 2021
 * 👨‍🎓 Computer engineer
-* 🏣 Currently working fulltime at [Genasys]([https://genasys.com/])
+* 🏣 Currently working fulltime at [Genasys](https://genasys.com/)
 * 📐 Passionate about UX/UI design
 * 💡 Always looking for new ideas!
 
