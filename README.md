@@ -3,8 +3,8 @@
 
 Welcome to my GitHub profile! I'm a web and mobile software engineer passionate about design and development. Here you'll find some of my projects and contributions.
 
-* 💻 Working as a Fronted Developer since 2021
-* 👨‍🎓 Computer engineer
+* 💻 Working as a Software Developer since 2021
+* 👨‍🎓 Computer engineer from University of Córdoba (Spain)
 * 🏣 Currently working fulltime at [Genasys](https://genasys.com/)
 * 📐 Passionate about UX/UI design
 * 💡 Always looking for new ideas!
