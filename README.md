@@ -16,5 +16,5 @@ Feel free to reach out!
 
 [LinkedIn](https://www.linkedin.com/in/eloy-gomez-garcia-464125201/)
 
-[Personal Web in maintenance]()
+[Portfolio](https://eloygomez.dev/)
 
